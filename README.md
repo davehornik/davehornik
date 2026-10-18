@@ -53,10 +53,8 @@ I build software with AI: Claude Code driven by my own skills, MCP servers and c
 
 ## Outside of work
 
-- **AI image generation** – ComfyUI, SDXL, LoRA training on my own home setup
-- **Making things** – 3D printing (PLA / PETG) and pixel art
-- **Gaming** – Star Citizen, World of Warcraft, Path of Exile 2, Cities: Skylines II, Arma Reforger
-- **Long-term curiosities** – cryptography, display technology, Czech history and linguistics
+- **Making stuff** – 3D printing, pixel art, and music: my own tracks in FL Studio plus AI-generated music
+- **Hobbies** – airsoft, AI image generation (ComfyUI, A1111, Fooocus), and I'm a passionate gamer playing all kinds of games
 
 <!-- ========================= STATISTIKY ========================= -->
 <!-- <picture> přepíná světlé/tmavé téma podle nastavení GitHubu.
@@ -114,9 +112,7 @@ Software stavím s AI: Claude Code řízený mými vlastními skilly, MCP server
 
 ### Mimo práci
 
-- **AI generování obrázků** – ComfyUI, SDXL, trénování LoRA na vlastním domácím stroji
-- **Tvoření** – 3D tisk (PLA / PETG) a pixel art
-- **Hry** – Star Citizen, World of Warcraft, Path of Exile 2, Cities: Skylines II, Arma Reforger
-- **Dlouhodobě mě zajímá** – kryptografie, zobrazovací technologie, česká historie a lingvistika
+- **Tvoření** – 3D tisk, pixel art a hudba: vlastní tracky ve FL Studiu i hudba generovaná AI
+- **Koníčky** – airsoft, generování obrázků přes AI (ComfyUI, A1111, Fooocus) a jsem vášnivý hráč, hraju všechno možné
 
 </details>
