@@ -10,10 +10,10 @@
 # Dave Horník
 
 <a href="https://github.com/davehornik">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=Full-stack+developer;ERP+%26+e-shop+integrations;PHP+%C2%B7+Tailwind+%C2%B7+JavaScript;Building+tools+nobody+sees+(but+everyone+uses)" alt="Full-stack developer, ERP and e-shop integrations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=ERP+%26+e-shop+integration+specialist;Building+with+AI+%C2%B7+Claude+Code+%C2%B7+MCP;Making+systems+talk+to+each+other" alt="ERP and e-shop integration specialist, building with AI" />
 </a>
 
-Full-stack developer and ERP integration specialist from Sokolov, Czech Republic.<br/>
+ERP & e-shop integration specialist from Sokolov, Czech Republic.<br/>
 I make e-shops and accounting systems talk to each other, so nobody has to retype an order ever again.
 
 <img src="https://komarev.com/ghpvc/?username=davehornik&style=flat-square&color=3B82F6&label=profile+views" alt="Profile views" />
@@ -24,26 +24,37 @@ I make e-shops and accounting systems talk to each other, so nobody has to retyp
 
 ## About me
 
-I work as a full-stack developer at **ShopSync**, where I deploy and maintain integrations between e-shops and ERP / accounting systems. Day to day that means order and invoice exports, XML feeds, ODBC and SQL transformations, VAT logic (including EU OSS), and mapping payment and shipping methods between systems that never quite agree on anything.
+I'm an independent integration specialist, currently working with **ShopSync**. I set up and deploy integrations between e-shops and ERP / accounting systems: order and invoice exports, XML feeds, ODBC and SQL transformations, VAT logic (including EU OSS), and mapping payment and shipping methods between systems that never quite agree on anything. On these projects I also handle on-site installations and escalated technical issues.
 
-I also handle on-site installations and escalated technical issues, and I build the internal side of things: admin interfaces, calculators and dashboards for the team, including the UI/UX that clients never see.
+I also build internal tooling, such as **ShopSync Admin**, a web app for managing clients, projects and workflows.
 
-## Tech stack
+<!-- Seznam platforem podle S:\lib – nejistě zařazené složky (brani, creativesites, forga, i6, mksoft) vynechány -->
+**E-shops & marketplaces:** Shoptet · Shopify · WooCommerce · PrestaShop · Magento · OpenCart · Upgates · Webareal · VirtueMart · BaseLinker · Heureka<br/>
+**ERP & accounting:** Pohoda / mPohoda · Money S3 / S4 · ABRA Flexi · ABRA Gen · Helios (Red, iNuvio, Nephrite) · MRP K/S · Premier · Duel · Ekonom · Oberon · Omega · and more<br/>
+**Integration work:** ODBC · SQL · XML · REST & GraphQL APIs · EDI · FTP · scheduled automation
 
-<!-- Ikony: https://skillicons.dev – pořadí = priorita -->
+## How I build
+
+I build software with AI: Claude Code driven by my own skills, MCP servers and command files. I own the result: the spec, testing on real data, deployment and support.
+
+<!-- Plugin popsán záměrně obecně – bez názvu a bez vazby na konkrétní firmu -->
+- **Support assistant plugin** – MCP plugin that lets Claude work across a helpdesk, time tracking and client records: ticket summaries, time logging, client lookups
+- **AI Cost Studio** – local Python dashboard for tracking Claude Code token costs
+- **Custom Claude Code skills** – domain knowledge for specific ERP systems, writing style, Czech language quality
+
+<!-- Ikony jen pro nástroje, ne pro jazyky – https://skillicons.dev -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,tailwind,python,git,docker,cloudflare,vscode,pytorch&perline=11" alt="PHP, JavaScript, HTML, CSS, Tailwind, Python, Git, Docker, Cloudflare, VS Code, PyTorch" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,cloudflare" alt="VS Code, Git, GitHub, Docker, Cloudflare" />
 </p>
-
-**Integrations:** ODBC · SQL · XML · REST APIs · FTP · scheduled automation<br/>
-**Systems I connect:** Shoptet ↔ Pohoda, ABRA Flexi, ABRA Gen, MRP K/S, Oberon, Omega
 
 ## Side projects
 
-- **AI Cost Studio** – local Python dashboard for tracking Claude Code token costs
-- **FL Studio MCP** – hooking FL Studio up to Claude Code via MCP
-- **Star Citizen mining dashboard** – refinery yield and mining calculator
-- Small automation and glue code: Cloudflare Workers webhook routing, Claude Code skills, homelab over ZeroTier
+<!-- Dota Monster a UEE.trading mají soukromé repo → odkaz vede na živý web -->
+- **[Dota Monster](https://www.dota.monster)** – personal Dota 2 coach: full match replay playback, laning analysis and coaching insights computed from your own replays, powered by a custom Source 2 demo parser
+- **[UEE.trading](https://uee.trading)** – Star Citizen mining & trading web app: refinery method optimizer built on a calibrated yield model, trade routes with live UEX prices and ship-fit filters, scanner signature lookup and a player marketplace
+- **[WH3SaveEditor](https://github.com/davehornik/WH3SaveEditor)** – savegame editor for Total War: WARHAMMER III: factions, characters, units, diplomacy, and co-op to singleplayer campaign conversion. Also on [Nexus Mods](https://www.nexusmods.com/totalwarwarhammer3/mods/370)
+- **[ComfyUI-Discord-RPC](https://github.com/davehornik/ComfyUI-Discord-RPC)** – Discord Rich Presence for ComfyUI: generation progress, model name and status
+- **[sd-discord-rich_presence](https://github.com/davehornik/sd-discord-rich_presence)** – Discord Rich Presence for AUTOMATIC1111's Stable Diffusion WebUI
 
 ## Outside of work
 
@@ -85,21 +96,29 @@ I also handle on-site installations and escalated technical issues, and I build 
 
 ### O mně
 
-Jsem full-stack vývojář ve **ShopSyncu**, kde nasazuji a udržuji propojení e-shopů s ERP a účetními systémy. V praxi to znamená exporty objednávek a faktur, XML feedy, ODBC a SQL transformace, logiku DPH (včetně OSS) a mapování plateb a doprav mezi systémy, které se málokdy shodnou.
+Jsem nezávislý specialista na integrace, aktuálně spolupracuji se **ShopSyncem**. Nastavuji a nasazuji propojení e-shopů s ERP a účetními systémy: exporty objednávek a faktur, XML feedy, ODBC a SQL transformace, logiku DPH (včetně OSS) a mapování plateb a doprav mezi systémy, které se málokdy shodnou. V rámci těchto projektů jezdím i na instalace k zákazníkům a řeším eskalované technické problémy.
 
-Kromě toho jezdím na instalace k zákazníkům, řeším eskalované technické problémy a stavím interní nástroje pro tým: administrace, kalkulačky a dashboardy, včetně UI/UX, které klient nikdy neuvidí.
+Stavím také interní nástroje, například **ShopSync Admin**, webovou aplikaci pro správu klientů, projektů a workflow.
 
-### Technologie
+**E-shopy a marketplace:** Shoptet · Shopify · WooCommerce · PrestaShop · Magento · OpenCart · Upgates · Webareal · VirtueMart · BaseLinker · Heureka<br/>
+**ERP a účetnictví:** Pohoda / mPohoda · Money S3 / S4 · ABRA Flexi · ABRA Gen · Helios (Red, iNuvio, Nephrite) · MRP K/S · Premier · Duel · Ekonom · Oberon · Omega · a další<br/>
+**Integrace:** ODBC · SQL · XML · REST a GraphQL API · EDI · FTP · plánovaná automatizace
 
-**Integrace:** ODBC · SQL · XML · REST API · FTP · plánovaná automatizace<br/>
-**Propojuji:** Shoptet ↔ Pohoda, ABRA Flexi, ABRA Gen, MRP K/S, Oberon, Omega
+### Jak pracuji
+
+Software stavím s AI: Claude Code řízený mými vlastními skilly, MCP servery a příkazovými soubory. Za výsledek odpovídám já: zadání, testy na reálných datech, nasazení a podporu.
+
+- **Plugin pro podporu** – MCP plugin, se kterým Claude pracuje napříč helpdeskem, výkazy času a evidencí klientů: shrnutí ticketů, zápis času, dohledání klienta
+- **AI Cost Studio** – lokální dashboard v Pythonu pro sledování nákladů na tokeny v Claude Code
+- **Vlastní skilly pro Claude Code** – doménové znalosti konkrétních ERP systémů, styl psaní, kvalita češtiny
 
 ### Vedlejší projekty
 
-- **AI Cost Studio** – lokální dashboard v Pythonu pro sledování nákladů na tokeny v Claude Code
-- **FL Studio MCP** – propojení FL Studia s Claude Code přes MCP
-- **Star Citizen mining dashboard** – kalkulačka výtěžnosti rafinerie a těžby
-- Drobná automatizace: směrování webhooků přes Cloudflare Workers, skilly pro Claude Code, homelab přes ZeroTier
+- **[Dota Monster](https://www.dota.monster)** – osobní trenér pro Dotu 2: přehrávání celého zápasu, analýza lajnování a koučovací postřehy z vlastních replayů hráče, postavené na vlastním parseru Source 2 dem
+- **[UEE.trading](https://uee.trading)** – webová aplikace pro těžbu a obchod ve Star Citizenu: výběr metody rafinace podle kalibrovaného modelu výtěžnosti, obchodní trasy s živými cenami z UEX a filtry podle lodi, určení rudy podle signatury skeneru a hráčský marketplace
+- **[WH3SaveEditor](https://github.com/davehornik/WH3SaveEditor)** – editor uložených her pro Total War: WARHAMMER III: frakce, postavy, jednotky, diplomacie a převod co-op kampaně na singleplayer. Také na [Nexus Mods](https://www.nexusmods.com/totalwarwarhammer3/mods/370)
+- **[ComfyUI-Discord-RPC](https://github.com/davehornik/ComfyUI-Discord-RPC)** – Discord Rich Presence pro ComfyUI: průběh generování, název modelu a stav
+- **[sd-discord-rich_presence](https://github.com/davehornik/sd-discord-rich_presence)** – Discord Rich Presence pro Stable Diffusion WebUI od AUTOMATIC1111
 
 ### Mimo práci
 
