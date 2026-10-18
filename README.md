@@ -13,7 +13,7 @@
 ERP & e-shop integration specialist from Sokolov, Czech Republic.<br/>
 I make e-shops and accounting systems talk to each other, so nobody has to retype an order ever again.
 
-<img src="https://komarev.com/ghpvc/?username=davehornik&style=flat-square&color=3B82F6&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=davehornik&color=blue&style=flat-square&label=Profile+views" alt="Profile views" />
 
 </div>
 
