@@ -24,20 +24,15 @@ I make e-shops and accounting systems talk to each other, so nobody has to retyp
 
 ## About me
 
-I'm an independent integration specialist, currently working with **ShopSync**. I set up and deploy integrations between e-shops and ERP / accounting systems: order and invoice exports, XML feeds, ODBC and SQL transformations, VAT logic (including EU OSS), and mapping payment and shipping methods between systems that never quite agree on anything. On these projects I also handle on-site installations and escalated technical issues.
+I'm an independent integration specialist with hands-on experience connecting e-shops to ERP and accounting systems to automate data transfer, so orders, invoices and other business data flow between systems without anyone retyping them. That covers XML feeds, ODBC and SQL transformations, VAT logic (including EU OSS), mapping payment and shipping methods between systems that never quite agree on anything, and on-site deployment and troubleshooting.
 
-I also build internal tooling, such as **ShopSync Admin**, a web app for managing clients, projects and workflows.
-
-<!-- Seznam platforem podle S:\lib – nejistě zařazené složky (brani, creativesites, forga, i6, mksoft) vynechány -->
-**E-shops & marketplaces:** Shoptet · Shopify · WooCommerce · PrestaShop · Magento · OpenCart · Upgates · Webareal · VirtueMart · BaseLinker · Heureka<br/>
-**ERP & accounting:** Pohoda / mPohoda · Money S3 / S4 · ABRA Flexi · ABRA Gen · Helios (Red, iNuvio, Nephrite) · MRP K/S · Premier · Duel · Ekonom · Oberon · Omega · and more<br/>
+**Platforms:** most e-shop platforms, marketplaces and ERP / accounting systems used on the Czech and Slovak market<br/>
 **Integration work:** ODBC · SQL · XML · REST & GraphQL APIs · EDI · FTP · scheduled automation
 
 ## How I build
 
 I build software with AI: Claude Code driven by my own skills, MCP servers and command files. I own the result: the spec, testing on real data, deployment and support.
 
-<!-- Plugin popsán záměrně obecně – bez názvu a bez vazby na konkrétní firmu -->
 - **Support assistant plugin** – MCP plugin that lets Claude work across a helpdesk, time tracking and client records: ticket summaries, time logging, client lookups
 - **AI Cost Studio** – local Python dashboard for tracking Claude Code token costs
 - **Custom Claude Code skills** – domain knowledge for specific ERP systems, writing style, Czech language quality
@@ -96,12 +91,9 @@ I build software with AI: Claude Code driven by my own skills, MCP servers and c
 
 ### O mně
 
-Jsem nezávislý specialista na integrace, aktuálně spolupracuji se **ShopSyncem**. Nastavuji a nasazuji propojení e-shopů s ERP a účetními systémy: exporty objednávek a faktur, XML feedy, ODBC a SQL transformace, logiku DPH (včetně OSS) a mapování plateb a doprav mezi systémy, které se málokdy shodnou. V rámci těchto projektů jezdím i na instalace k zákazníkům a řeším eskalované technické problémy.
+Jsem nezávislý specialista na integrace s praktickými zkušenostmi s propojováním e-shopů s ERP a účetními systémy za účelem automatizace přenosu dat, aby objednávky, faktury a další data putovala mezi systémy bez ručního přepisování. Patří k tomu XML feedy, ODBC a SQL transformace, logika DPH (včetně OSS), mapování plateb a doprav mezi systémy, které se málokdy shodnou, a nasazení u zákazníka včetně řešení problémů.
 
-Stavím také interní nástroje, například **ShopSync Admin**, webovou aplikaci pro správu klientů, projektů a workflow.
-
-**E-shopy a marketplace:** Shoptet · Shopify · WooCommerce · PrestaShop · Magento · OpenCart · Upgates · Webareal · VirtueMart · BaseLinker · Heureka<br/>
-**ERP a účetnictví:** Pohoda / mPohoda · Money S3 / S4 · ABRA Flexi · ABRA Gen · Helios (Red, iNuvio, Nephrite) · MRP K/S · Premier · Duel · Ekonom · Oberon · Omega · a další<br/>
+**Platformy:** většina e-shopových platforem, marketplace a ERP / účetních systémů používaných v Česku a na Slovensku<br/>
 **Integrace:** ODBC · SQL · XML · REST a GraphQL API · EDI · FTP · plánovaná automatizace
 
 ### Jak pracuji
