@@ -6,9 +6,6 @@
 
 <!-- Hlavička: jméno + animovaný podtitulek -->
 <div align="center">
-
-# Dave Horník
-
 <a href="https://github.com/davehornik">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&lines=ERP+%26+e-shop+integration+specialist;Building+with+AI+%C2%B7+Claude+Code+%C2%B7+MCP;Making+systems+talk+to+each+other" alt="ERP and e-shop integration specialist, building with AI" />
 </a>
